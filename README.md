@@ -1,1 +1,1 @@
-# BuildACar
+This project was constructed to help the students of Chesapeake Math and IT Academy prepare the ground work for entering a car in the Solar Car Challenge out of Austin, Texas.  Much of the material here is copied from the rule book for the competition and is intended to convey the requirements for competition to this team.  The original material can be found at https://www.solarcarchallenge.org/challenge/
